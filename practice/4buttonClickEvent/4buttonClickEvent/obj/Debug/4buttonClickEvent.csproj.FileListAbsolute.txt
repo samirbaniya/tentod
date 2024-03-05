@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\byme\net centric\practice\4buttonClickEvent\4buttonClickEvent\bin\Debug\4buttonClickEvent.exe.config
+C:\Users\Dell\Documents\byme\net centric\practice\4buttonClickEvent\4buttonClickEvent\bin\Debug\4buttonClickEvent.exe
+C:\Users\Dell\Documents\byme\net centric\practice\4buttonClickEvent\4buttonClickEvent\bin\Debug\4buttonClickEvent.pdb
+C:\Users\Dell\Documents\byme\net centric\practice\4buttonClickEvent\4buttonClickEvent\obj\Debug\4buttonClickEvent.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\byme\net centric\practice\4buttonClickEvent\4buttonClickEvent\obj\Debug\4buttonClickEvent.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\byme\net centric\practice\4buttonClickEvent\4buttonClickEvent\obj\Debug\4buttonClickEvent.exe
+C:\Users\Dell\Documents\byme\net centric\practice\4buttonClickEvent\4buttonClickEvent\obj\Debug\4buttonClickEvent.pdb

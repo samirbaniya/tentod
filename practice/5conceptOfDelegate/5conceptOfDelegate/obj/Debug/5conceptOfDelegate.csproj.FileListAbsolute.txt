@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\byme\net centric\practice\5conceptOfDelegate\5conceptOfDelegate\obj\Debug\5conceptOfDelegate.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\byme\net centric\practice\5conceptOfDelegate\5conceptOfDelegate\obj\Debug\5conceptOfDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\byme\net centric\practice\5conceptOfDelegate\5conceptOfDelegate\bin\Debug\5conceptOfDelegate.exe.config
+C:\Users\Dell\Documents\byme\net centric\practice\5conceptOfDelegate\5conceptOfDelegate\bin\Debug\5conceptOfDelegate.exe
+C:\Users\Dell\Documents\byme\net centric\practice\5conceptOfDelegate\5conceptOfDelegate\bin\Debug\5conceptOfDelegate.pdb
+C:\Users\Dell\Documents\byme\net centric\practice\5conceptOfDelegate\5conceptOfDelegate\obj\Debug\5conceptOfDelegate.exe
+C:\Users\Dell\Documents\byme\net centric\practice\5conceptOfDelegate\5conceptOfDelegate\obj\Debug\5conceptOfDelegate.pdb

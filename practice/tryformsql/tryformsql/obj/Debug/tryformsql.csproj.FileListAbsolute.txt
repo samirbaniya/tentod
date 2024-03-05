@@ -1,0 +1,10 @@
+C:\Users\Dell\Documents\byme\net centric\practice\tryformsql\tryformsql\bin\Debug\tryformsql.exe.config
+C:\Users\Dell\Documents\byme\net centric\practice\tryformsql\tryformsql\bin\Debug\tryformsql.exe
+C:\Users\Dell\Documents\byme\net centric\practice\tryformsql\tryformsql\bin\Debug\tryformsql.pdb
+C:\Users\Dell\Documents\byme\net centric\practice\tryformsql\tryformsql\obj\Debug\tryformsql.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\byme\net centric\practice\tryformsql\tryformsql\obj\Debug\tryformsql.Form1.resources
+C:\Users\Dell\Documents\byme\net centric\practice\tryformsql\tryformsql\obj\Debug\tryformsql.Properties.Resources.resources
+C:\Users\Dell\Documents\byme\net centric\practice\tryformsql\tryformsql\obj\Debug\tryformsql.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\byme\net centric\practice\tryformsql\tryformsql\obj\Debug\tryformsql.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\byme\net centric\practice\tryformsql\tryformsql\obj\Debug\tryformsql.exe
+C:\Users\Dell\Documents\byme\net centric\practice\tryformsql\tryformsql\obj\Debug\tryformsql.pdb

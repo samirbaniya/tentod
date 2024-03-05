@@ -1,0 +1,10 @@
+C:\Users\Dell\Documents\byme\net centric\practice\trydataviewgridsql\trydataviewgridsql\bin\Debug\trydataviewgridsql.exe.config
+C:\Users\Dell\Documents\byme\net centric\practice\trydataviewgridsql\trydataviewgridsql\bin\Debug\trydataviewgridsql.exe
+C:\Users\Dell\Documents\byme\net centric\practice\trydataviewgridsql\trydataviewgridsql\bin\Debug\trydataviewgridsql.pdb
+C:\Users\Dell\Documents\byme\net centric\practice\trydataviewgridsql\trydataviewgridsql\obj\Debug\trydataviewgridsql.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\byme\net centric\practice\trydataviewgridsql\trydataviewgridsql\obj\Debug\trydataviewgridsql.Form1.resources
+C:\Users\Dell\Documents\byme\net centric\practice\trydataviewgridsql\trydataviewgridsql\obj\Debug\trydataviewgridsql.Properties.Resources.resources
+C:\Users\Dell\Documents\byme\net centric\practice\trydataviewgridsql\trydataviewgridsql\obj\Debug\trydataviewgridsql.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\byme\net centric\practice\trydataviewgridsql\trydataviewgridsql\obj\Debug\trydataviewgridsql.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\byme\net centric\practice\trydataviewgridsql\trydataviewgridsql\obj\Debug\trydataviewgridsql.exe
+C:\Users\Dell\Documents\byme\net centric\practice\trydataviewgridsql\trydataviewgridsql\obj\Debug\trydataviewgridsql.pdb

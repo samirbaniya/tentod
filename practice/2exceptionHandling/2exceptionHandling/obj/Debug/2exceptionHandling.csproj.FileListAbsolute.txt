@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\byme\net centric\practice\2exceptionHandling\2exceptionHandling\bin\Debug\2exceptionHandling.exe.config
+C:\Users\Dell\Documents\byme\net centric\practice\2exceptionHandling\2exceptionHandling\bin\Debug\2exceptionHandling.exe
+C:\Users\Dell\Documents\byme\net centric\practice\2exceptionHandling\2exceptionHandling\bin\Debug\2exceptionHandling.pdb
+C:\Users\Dell\Documents\byme\net centric\practice\2exceptionHandling\2exceptionHandling\obj\Debug\2exceptionHandling.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\byme\net centric\practice\2exceptionHandling\2exceptionHandling\obj\Debug\2exceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\byme\net centric\practice\2exceptionHandling\2exceptionHandling\obj\Debug\2exceptionHandling.exe
+C:\Users\Dell\Documents\byme\net centric\practice\2exceptionHandling\2exceptionHandling\obj\Debug\2exceptionHandling.pdb

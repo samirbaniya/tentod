@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\byme\net centric\practice\anythingpractice\anythingpractice\obj\Debug\anythingpractice.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\byme\net centric\practice\anythingpractice\anythingpractice\obj\Debug\anythingpractice.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\byme\net centric\practice\anythingpractice\anythingpractice\bin\Debug\anythingpractice.exe.config
+C:\Users\Dell\Documents\byme\net centric\practice\anythingpractice\anythingpractice\bin\Debug\anythingpractice.exe
+C:\Users\Dell\Documents\byme\net centric\practice\anythingpractice\anythingpractice\bin\Debug\anythingpractice.pdb
+C:\Users\Dell\Documents\byme\net centric\practice\anythingpractice\anythingpractice\obj\Debug\anythingpractice.exe
+C:\Users\Dell\Documents\byme\net centric\practice\anythingpractice\anythingpractice\obj\Debug\anythingpractice.pdb

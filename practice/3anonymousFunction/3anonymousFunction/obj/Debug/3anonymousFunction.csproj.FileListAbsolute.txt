@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\byme\net centric\practice\3anonymousFunction\3anonymousFunction\bin\Debug\3anonymousFunction.exe.config
+C:\Users\Dell\Documents\byme\net centric\practice\3anonymousFunction\3anonymousFunction\bin\Debug\3anonymousFunction.exe
+C:\Users\Dell\Documents\byme\net centric\practice\3anonymousFunction\3anonymousFunction\bin\Debug\3anonymousFunction.pdb
+C:\Users\Dell\Documents\byme\net centric\practice\3anonymousFunction\3anonymousFunction\obj\Debug\3anonymousFunction.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\byme\net centric\practice\3anonymousFunction\3anonymousFunction\obj\Debug\3anonymousFunction.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\byme\net centric\practice\3anonymousFunction\3anonymousFunction\obj\Debug\3anonymousFunction.exe
+C:\Users\Dell\Documents\byme\net centric\practice\3anonymousFunction\3anonymousFunction\obj\Debug\3anonymousFunction.pdb

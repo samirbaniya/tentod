@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\byme\net centric\practice\7asynAwait\7asynAwait\bin\Debug\7asynAwait.exe.config
+C:\Users\Dell\Documents\byme\net centric\practice\7asynAwait\7asynAwait\bin\Debug\7asynAwait.exe
+C:\Users\Dell\Documents\byme\net centric\practice\7asynAwait\7asynAwait\bin\Debug\7asynAwait.pdb
+C:\Users\Dell\Documents\byme\net centric\practice\7asynAwait\7asynAwait\obj\Debug\7asynAwait.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\byme\net centric\practice\7asynAwait\7asynAwait\obj\Debug\7asynAwait.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\byme\net centric\practice\7asynAwait\7asynAwait\obj\Debug\7asynAwait.exe
+C:\Users\Dell\Documents\byme\net centric\practice\7asynAwait\7asynAwait\obj\Debug\7asynAwait.pdb

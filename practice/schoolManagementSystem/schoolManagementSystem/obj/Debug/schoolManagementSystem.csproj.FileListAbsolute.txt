@@ -1,0 +1,12 @@
+C:\Users\Dell\Documents\byme\net centric\practice\schoolManagementSystem\schoolManagementSystem\bin\Debug\schoolManagementSystem.exe.config
+C:\Users\Dell\Documents\byme\net centric\practice\schoolManagementSystem\schoolManagementSystem\bin\Debug\schoolManagementSystem.exe
+C:\Users\Dell\Documents\byme\net centric\practice\schoolManagementSystem\schoolManagementSystem\bin\Debug\schoolManagementSystem.pdb
+C:\Users\Dell\Documents\byme\net centric\practice\schoolManagementSystem\schoolManagementSystem\obj\Debug\schoolManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\byme\net centric\practice\schoolManagementSystem\schoolManagementSystem\obj\Debug\schoolManagementSystem.Form1.resources
+C:\Users\Dell\Documents\byme\net centric\practice\schoolManagementSystem\schoolManagementSystem\obj\Debug\schoolManagementSystem.Form2.resources
+C:\Users\Dell\Documents\byme\net centric\practice\schoolManagementSystem\schoolManagementSystem\obj\Debug\schoolManagementSystem.Properties.Resources.resources
+C:\Users\Dell\Documents\byme\net centric\practice\schoolManagementSystem\schoolManagementSystem\obj\Debug\schoolManagementSystem.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\byme\net centric\practice\schoolManagementSystem\schoolManagementSystem\obj\Debug\schoolManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\byme\net centric\practice\schoolManagementSystem\schoolManagementSystem\obj\Debug\schoolManagementSystem.exe
+C:\Users\Dell\Documents\byme\net centric\practice\schoolManagementSystem\schoolManagementSystem\obj\Debug\schoolManagementSystem.pdb
+C:\Users\Dell\Documents\byme\net centric\practice\schoolManagementSystem\schoolManagementSystem\obj\Debug\schoolManagementSystem.Form3.resources

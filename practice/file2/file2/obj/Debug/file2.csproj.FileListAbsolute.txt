@@ -1,0 +1,7 @@
+C:\Users\Samir Dosti\Documents\byme\net centric\practice\file2\file2\bin\Debug\file2.exe.config
+C:\Users\Samir Dosti\Documents\byme\net centric\practice\file2\file2\bin\Debug\file2.exe
+C:\Users\Samir Dosti\Documents\byme\net centric\practice\file2\file2\bin\Debug\file2.pdb
+C:\Users\Samir Dosti\Documents\byme\net centric\practice\file2\file2\obj\Debug\file2.csproj.AssemblyReference.cache
+C:\Users\Samir Dosti\Documents\byme\net centric\practice\file2\file2\obj\Debug\file2.csproj.CoreCompileInputs.cache
+C:\Users\Samir Dosti\Documents\byme\net centric\practice\file2\file2\obj\Debug\file2.exe
+C:\Users\Samir Dosti\Documents\byme\net centric\practice\file2\file2\obj\Debug\file2.pdb

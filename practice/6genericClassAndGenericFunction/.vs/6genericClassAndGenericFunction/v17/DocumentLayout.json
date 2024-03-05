@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Documents\\byme\\net centric\\practice\\6genericClassAndGenericFunction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4712D024-8B9E-46B4-9290-53F06780DB75}|6genericClassAndGenericFunction\\6genericClassAndGenericFunction.csproj|c:\\users\\dell\\documents\\byme\\net centric\\practice\\6genericclassandgenericfunction\\6genericclassandgenericfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4712D024-8B9E-46B4-9290-53F06780DB75}|6genericClassAndGenericFunction\\6genericClassAndGenericFunction.csproj|solutionrelative:6genericclassandgenericfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\byme\\net centric\\practice\\6genericClassAndGenericFunction\\6genericClassAndGenericFunction\\Program.cs",
+              "RelativeDocumentMoniker": "6genericClassAndGenericFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\byme\\net centric\\practice\\6genericClassAndGenericFunction\\6genericClassAndGenericFunction\\Program.cs",
+              "RelativeToolTip": "6genericClassAndGenericFunction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T07:19:08.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

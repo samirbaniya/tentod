@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\byme\net centric\practice\genericClassAndGenericFunction\genericClassAndGenericFunction\bin\Debug\genericClassAndGenericFunction.exe.config
+C:\Users\Dell\Documents\byme\net centric\practice\genericClassAndGenericFunction\genericClassAndGenericFunction\bin\Debug\genericClassAndGenericFunction.exe
+C:\Users\Dell\Documents\byme\net centric\practice\genericClassAndGenericFunction\genericClassAndGenericFunction\bin\Debug\genericClassAndGenericFunction.pdb
+C:\Users\Dell\Documents\byme\net centric\practice\genericClassAndGenericFunction\genericClassAndGenericFunction\obj\Debug\genericClassAndGenericFunction.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\byme\net centric\practice\genericClassAndGenericFunction\genericClassAndGenericFunction\obj\Debug\genericClassAndGenericFunction.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\byme\net centric\practice\genericClassAndGenericFunction\genericClassAndGenericFunction\obj\Debug\genericClassAndGenericFunction.exe
+C:\Users\Dell\Documents\byme\net centric\practice\genericClassAndGenericFunction\genericClassAndGenericFunction\obj\Debug\genericClassAndGenericFunction.pdb

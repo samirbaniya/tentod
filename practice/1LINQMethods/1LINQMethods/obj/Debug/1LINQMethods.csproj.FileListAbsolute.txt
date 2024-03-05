@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\byme\net centric\practice\1LINQMethods\1LINQMethods\bin\Debug\1LINQMethods.exe.config
+C:\Users\Dell\Documents\byme\net centric\practice\1LINQMethods\1LINQMethods\bin\Debug\1LINQMethods.exe
+C:\Users\Dell\Documents\byme\net centric\practice\1LINQMethods\1LINQMethods\bin\Debug\1LINQMethods.pdb
+C:\Users\Dell\Documents\byme\net centric\practice\1LINQMethods\1LINQMethods\obj\Debug\1LINQMethods.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\byme\net centric\practice\1LINQMethods\1LINQMethods\obj\Debug\1LINQMethods.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\byme\net centric\practice\1LINQMethods\1LINQMethods\obj\Debug\1LINQMethods.exe
+C:\Users\Dell\Documents\byme\net centric\practice\1LINQMethods\1LINQMethods\obj\Debug\1LINQMethods.pdb
