@@ -24,7 +24,7 @@ namespace tryformsql
         {
 
             con.Open();
-            SqlCommand cmd = new SqlCommand("insert into testfirst(name,address)values('" + textBox1.Text+"','"+textBox2.Text + "')", con);
+            SqlCommand cmd = new SqlCommand("insert into testfirst(name,address)values('" + textBox1.Text + "','" + textBox2.Text + "')", con);
             int i = cmd.ExecuteNonQuery();
             if (i != 0)
             {

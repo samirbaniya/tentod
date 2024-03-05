@@ -1,0 +1,10 @@
+C:\Users\Dell\Documents\byme\net centric\practice\classworksql\classworksql\bin\Debug\classworksql.exe.config
+C:\Users\Dell\Documents\byme\net centric\practice\classworksql\classworksql\bin\Debug\classworksql.exe
+C:\Users\Dell\Documents\byme\net centric\practice\classworksql\classworksql\bin\Debug\classworksql.pdb
+C:\Users\Dell\Documents\byme\net centric\practice\classworksql\classworksql\obj\Debug\classworksql.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\byme\net centric\practice\classworksql\classworksql\obj\Debug\classworksql.Form1.resources
+C:\Users\Dell\Documents\byme\net centric\practice\classworksql\classworksql\obj\Debug\classworksql.Properties.Resources.resources
+C:\Users\Dell\Documents\byme\net centric\practice\classworksql\classworksql\obj\Debug\classworksql.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\byme\net centric\practice\classworksql\classworksql\obj\Debug\classworksql.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\byme\net centric\practice\classworksql\classworksql\obj\Debug\classworksql.exe
+C:\Users\Dell\Documents\byme\net centric\practice\classworksql\classworksql\obj\Debug\classworksql.pdb
