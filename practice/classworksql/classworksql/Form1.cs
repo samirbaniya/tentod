@@ -13,6 +13,7 @@ namespace classworksql
         {
             InitializeComponent();
             LoadData();
+            dataGridView1.CellClick += DataGridView1_CellClick;
         }
 
         private void LoadData()
@@ -179,7 +180,6 @@ namespace classworksql
                     using (SqlCommand cmd = new SqlCommand(selectQuery, connection))
                     {
                         cmd.Parameters.AddWithValue("@Id", user_id.Text);
-
                         using (SqlDataAdapter adapter = new SqlDataAdapter(cmd))
                         {
                             DataTable dataTable = new DataTable();
@@ -204,5 +204,19 @@ namespace classworksql
                 MessageBox.Show($"Error selecting data: {ex.Message}");
             }
         }
+        private void DataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.RowIndex >= 0)
+            {
+                DataGridViewRow row = dataGridView1.Rows[e.RowIndex];
+
+                // Populate TextBoxes with selected values
+                user_id.Text = row.Cells["User_id"].Value.ToString();
+                user_name.Text = row.Cells["UserName"].Value.ToString();
+                user_phone.Text = row.Cells["Phone"].Value.ToString();
+
+            }
+        }
+
     }
 }

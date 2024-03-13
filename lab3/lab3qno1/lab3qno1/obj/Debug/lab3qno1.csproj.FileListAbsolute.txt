@@ -1,0 +1,10 @@
+C:\Users\Dell\Documents\byme\net centric\lab3\lab3qno1\lab3qno1\bin\Debug\lab3qno1.exe.config
+C:\Users\Dell\Documents\byme\net centric\lab3\lab3qno1\lab3qno1\bin\Debug\lab3qno1.exe
+C:\Users\Dell\Documents\byme\net centric\lab3\lab3qno1\lab3qno1\bin\Debug\lab3qno1.pdb
+C:\Users\Dell\Documents\byme\net centric\lab3\lab3qno1\lab3qno1\obj\Debug\lab3qno1.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\byme\net centric\lab3\lab3qno1\lab3qno1\obj\Debug\lab3qno1.Form1.resources
+C:\Users\Dell\Documents\byme\net centric\lab3\lab3qno1\lab3qno1\obj\Debug\lab3qno1.Properties.Resources.resources
+C:\Users\Dell\Documents\byme\net centric\lab3\lab3qno1\lab3qno1\obj\Debug\lab3qno1.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\byme\net centric\lab3\lab3qno1\lab3qno1\obj\Debug\lab3qno1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\byme\net centric\lab3\lab3qno1\lab3qno1\obj\Debug\lab3qno1.exe
+C:\Users\Dell\Documents\byme\net centric\lab3\lab3qno1\lab3qno1\obj\Debug\lab3qno1.pdb

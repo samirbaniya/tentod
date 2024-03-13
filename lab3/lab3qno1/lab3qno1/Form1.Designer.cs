@@ -36,11 +36,7 @@
             this.create = new System.Windows.Forms.Button();
             this.update = new System.Windows.Forms.Button();
             this.delete = new System.Windows.Forms.Button();
-            this.select = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.tid = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.tname = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.tphone = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.user_id = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -77,88 +73,61 @@
             this.user_name.Location = new System.Drawing.Point(164, 92);
             this.user_name.Name = "user_name";
             this.user_name.Size = new System.Drawing.Size(100, 20);
-            this.user_name.TabIndex = 4;
+            this.user_name.TabIndex = 2;
             // 
             // user_phone
             // 
             this.user_phone.Location = new System.Drawing.Point(164, 134);
             this.user_phone.Name = "user_phone";
             this.user_phone.Size = new System.Drawing.Size(100, 20);
-            this.user_phone.TabIndex = 5;
+            this.user_phone.TabIndex = 3;
             // 
             // create
             // 
             this.create.Location = new System.Drawing.Point(90, 180);
             this.create.Name = "create";
             this.create.Size = new System.Drawing.Size(75, 23);
-            this.create.TabIndex = 6;
+            this.create.TabIndex = 4;
             this.create.Text = "Create";
             this.create.UseVisualStyleBackColor = true;
             this.create.Click += new System.EventHandler(this.create_Click);
             // 
             // update
             // 
-            this.update.Location = new System.Drawing.Point(189, 180);
+            this.update.Location = new System.Drawing.Point(249, 180);
             this.update.Name = "update";
             this.update.Size = new System.Drawing.Size(75, 23);
-            this.update.TabIndex = 7;
+            this.update.TabIndex = 5;
             this.update.Text = "Update";
             this.update.UseVisualStyleBackColor = true;
             this.update.Click += new System.EventHandler(this.update_Click);
             // 
             // delete
             // 
-            this.delete.Location = new System.Drawing.Point(296, 180);
+            this.delete.Location = new System.Drawing.Point(409, 180);
             this.delete.Name = "delete";
             this.delete.Size = new System.Drawing.Size(75, 23);
-            this.delete.TabIndex = 8;
+            this.delete.TabIndex = 6;
             this.delete.Text = "Delete";
             this.delete.UseVisualStyleBackColor = true;
             this.delete.Click += new System.EventHandler(this.delete_Click);
             // 
-            // select
-            // 
-            this.select.Location = new System.Drawing.Point(409, 180);
-            this.select.Name = "select";
-            this.select.Size = new System.Drawing.Size(75, 23);
-            this.select.TabIndex = 9;
-            this.select.Text = "Select";
-            this.select.UseVisualStyleBackColor = true;
-            this.select.Click += new System.EventHandler(this.select_Click);
-            // 
             // dataGridView1
             // 
+            this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.tid,
-            this.tname,
-            this.tphone});
             this.dataGridView1.Location = new System.Drawing.Point(90, 234);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(344, 150);
-            this.dataGridView1.TabIndex = 10;
-            // 
-            // tid
-            // 
-            this.tid.HeaderText = "ID";
-            this.tid.Name = "tid";
-            // 
-            // tname
-            // 
-            this.tname.HeaderText = "UserName";
-            this.tname.Name = "tname";
-            // 
-            // tphone
-            // 
-            this.tphone.HeaderText = "Phone No.";
-            this.tphone.Name = "tphone";
+            this.dataGridView1.Size = new System.Drawing.Size(394, 150);
+            this.dataGridView1.TabIndex = 8;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // user_id
             // 
             this.user_id.Location = new System.Drawing.Point(164, 52);
             this.user_id.Name = "user_id";
             this.user_id.Size = new System.Drawing.Size(100, 20);
-            this.user_id.TabIndex = 11;
+            this.user_id.TabIndex = 1;
             // 
             // Form1
             // 
@@ -167,7 +136,6 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.user_id);
             this.Controls.Add(this.dataGridView1);
-            this.Controls.Add(this.select);
             this.Controls.Add(this.delete);
             this.Controls.Add(this.update);
             this.Controls.Add(this.create);
@@ -178,6 +146,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -194,11 +163,7 @@
         private System.Windows.Forms.Button create;
         private System.Windows.Forms.Button update;
         private System.Windows.Forms.Button delete;
-        private System.Windows.Forms.Button select;
         private System.Windows.Forms.DataGridView dataGridView1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn tid;
-        private System.Windows.Forms.DataGridViewTextBoxColumn tname;
-        private System.Windows.Forms.DataGridViewTextBoxColumn tphone;
         private System.Windows.Forms.TextBox user_id;
     }
 }
